@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "name": "piedra",
+        "beats": [
+            2,
+            3
+        ],
+        "imagen": "./src/assets/piedra.png",
+        "emoji": "💎"
+    },
+    {
+        "id": 1,
+        "name": "papel",
+        "beats": [
+            0,
+            4
+        ],
+        "imagen": "./src/assets/papel.png",
+        "emoji": "📋"
+    },
+    {
+        "id": 2,
+        "name": "tijeras",
+        "beats": [
+            1,
+            3
+        ],
+        "imagen": "./src/assets/tijeras.png",
+        "emoji": "✂️"
+    },
+    {
+        "id": 3,
+        "name": "lagarto",
+        "beats": [
+            4,
+            1
+        ],
+        "imagen": "./src/assets/lagarto.png",
+        "emoji": "🦎"
+    },
+    {
+        "id": 4,
+        "name": "spock",
+        "beats": [
+            0,
+            2
+        ],
+        "imagen": "./src/assets/spock.png",
+        "emoji": "🖖"
+    }
+]

@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    align-items: center; /* Alinea verticalmente en el centro */
+    justify-content: center; /* Alinea horizontalmente en el centro */
+    height: 100vh; /* Altura del viewport completo */
+    background-color: #2d3748; /* Color gris oscuro (equivalente a bg-gray-800) */
+  }
+  .capsula{
+    border-radius: 5px;
+    padding: 16px;
+    background-color: #535c6b;
+  }
+  .opciones{
+    max-width: 28rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
